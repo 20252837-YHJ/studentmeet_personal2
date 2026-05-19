@@ -6,7 +6,7 @@ const STUDENTS = [
     match: 92,
     tags: ["스터디", "카페투어", "게임"],
     questionCount: 5,
-    coverUrl: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=4000&q=800",
+    coverUrl: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=60",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const STUDENTS = [
     match: 87,
     tags: ["그림", "영화감상", "독서"],
     questionCount: 5,
-    coverUrl: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=4000&q=800",
+    coverUrl: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&q=60",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const STUDENTS = [
     match: 84,
     tags: ["상담", "요가", "글쓰기"],
     questionCount: 5,
-    coverUrl: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=4000&q=800",
+    coverUrl: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=800&q=60",
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const STUDENTS = [
     match: 79,
     tags: ["운동", "주식", "음악"],
     questionCount: 5,
-    coverUrl: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=4000&q=800",
+    coverUrl: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=60",
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ const STUDENTS = [
     match: 76,
     tags: ["여행", "요리", "독서"],
     questionCount: 5,
-    coverUrl: "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=4000&q=800",
+    coverUrl: "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=800&q=60",
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ const STUDENTS = [
     match: 71,
     tags: ["자전거", "캠핑", "사진"],
     questionCount: 5,
-    coverUrl: "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?w=4000&q=800",
+    coverUrl: "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?w=800&q=60",
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ const STUDENTS = [
     match: 68,
     tags: ["베이킹", "카페", "드라마"],
     questionCount: 5,
-    coverUrl: "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=4000&q=800",
+    coverUrl: "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&q=60",
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ const STUDENTS = [
     match: 65,
     tags: ["코딩", "보드게임", "애니"],
     questionCount: 5,
-    coverUrl: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=4000&q=800",
+    coverUrl: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&q=60",
   },
 ];
 
